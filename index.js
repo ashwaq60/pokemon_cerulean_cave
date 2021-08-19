@@ -83,15 +83,4 @@ rl.on('close', () => {
     console.log("Game over");
 });
 
-//adding ash'sbranch hhi
-
-//testing to see if branch is working 
-
-//test 3 and adding more tests
-
-//test 4 & 5 
-
-//test 6
-
-
-//test 7
+//So I got rid of DS store and gitignore to be able to push and pull requests
